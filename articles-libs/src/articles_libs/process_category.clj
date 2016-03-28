@@ -1,0 +1,8 @@
+(ns articles-libs.process-category)
+(def CATEGORY_TERMS  0)
+(def CATEGORY_START  1)
+(def CATEGORY_TIMES  2)
+(def CATEGORY_AMOUNT 3)
+(def CATEGORY_GROSS  4)
+(def CATEGORY_NETTO  5)
+(def CATEGORY_FINAL  9)
